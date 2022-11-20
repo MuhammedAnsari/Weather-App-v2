@@ -1,0 +1,4 @@
+app.post("/", function (req, res) {
+    const place = req.body.city;
+
+})
